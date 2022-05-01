@@ -1,2 +1,2 @@
-# BarberiaAlura
-Primera página web con HTML y CSS
+# Barberia Alura.
+Primera página web con HTML y CSS.
